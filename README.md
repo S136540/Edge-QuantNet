@@ -1,6 +1,6 @@
 # Edge QuantNet
 
-Ultralight Quantized SE-ResNet for Leaf Disease Classification on Edge Devices
+Ultralight Quantized SE-ResNet for Leaf Disease Classification on Edge or Tiny Devices
 
 
 
